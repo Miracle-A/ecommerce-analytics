@@ -1,4 +1,7 @@
 ﻿# E-Commerce Customer Analytics and Purchase Prediction
+ 
+## Dashboard
+Check out the live dashboard here: [E-Commerce Analytics Dashboard](https://ecommerce-analytics-knsmqckjrylr4p6wf64n2t.streamlit.app/)
 
 ## Project Overview
 This project develops a comprehensive analytics solution for an e-commerce business that combines customer segmentation with purchase prediction to drive personalized marketing strategies and increase revenue.
