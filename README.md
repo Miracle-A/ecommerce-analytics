@@ -53,3 +53,5 @@ This project develops a comprehensive analytics solution for an e-commerce busin
 ## Dataset
 This project uses the UCI Online Retail dataset, which contains transactions from a UK-based online retailer over a one-year period.
 
+## Live Demo
+Check out the live dashboard here: [E-Commerce Analytics Dashboard](https://ecommerce-analytics-knsmqckjrylr4p6wf64n2t.streamlit.app/)
