@@ -1,0 +1,3 @@
+Cluster,Size,Percentage,Frequency,Spending,Recency,AvgPurchaseValue,Description
+0,4336,100.0%,High,Low,Recent,$382.13,Recent customers with High purchase frequency and Low spending
+1,2,0.0%,Low,High,Inactive,$80709.93,Inactive customers with Low purchase frequency and High spending
