@@ -18,7 +18,8 @@ This project develops a comprehensive analytics solution for an e-commerce busin
 
 
 ### Marketing Recommendations
-![image](https://github.com/user-attachments/assets/e143a276-fac2-4386-9f76-d01242b2f3c8)
+![image](https://github.com/user-attachments/assets/f878fa66-fc4e-4865-b703-33c6c1c9ee2c)
+
 
 ## Features
 - RFM Analysis (Recency, Frequency, Monetary value)
